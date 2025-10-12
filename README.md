@@ -41,3 +41,10 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+## Cú pháp khác 
+
+```bash
+pip freeze > requirements.txt
+```
+
